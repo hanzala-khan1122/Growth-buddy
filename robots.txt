@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/portal-login.html
+
+Sitemap: https://growthbuddy.agency/sitemap.xml
